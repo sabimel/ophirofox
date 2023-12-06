@@ -18,6 +18,7 @@
   ],
   "optional_permissions": [
     "webNavigation"
+    , https://nouveau-europresse-com.proxy.toulouse.archi.fr/*"
     , "https://nouveau-europresse-com.essec.idm.oclc.org/*"
     , "https://nouveau-europresse-com.ezproxy.univ-catholille.fr/*"
     , "https://nouveau-europresse-com.ezproxy.upf.pf/*"
